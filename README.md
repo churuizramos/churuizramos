@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #c41818;">Jesus Ruiz Ramos</h1>
 
 <div style="">
-    <img src="images/154-1540703_uofl-jb-speed-school-of-engineering-uofl-school.jpg">
+    <img src="Images/154-1540703_uofl-jb-speed-school-of-engineering-uofl-school.jpg">
     <h1 align="center" style>Computer Science & Engineering</h1>
 </div>
 
