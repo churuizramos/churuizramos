@@ -18,7 +18,4 @@
 - Python: The most popular language for machine learning
 - MongoDB: Expanding my understanding
 
-🔨 My Projects
--- 
-- [Biographical Website](https://github.com/lordruzki/bio_ws): A website to showcase
-- [Comida](): A cooking app with a simple recipe creation process and a focus on sharing and finding recipes.
+## 🔨 My Current Projects
