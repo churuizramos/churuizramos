@@ -7,10 +7,9 @@
     <h1 align="center" style>Computer Science & Engineering Student</h1>
 </div>
 
-### Pleasure to meet you! I'm a student developer focused on UI/UX for WebApps as well as DB creation and management.👋
+### Pleasure to meet you! I'm a student developer working on web applications and web development.👋
 
-### 📖 Current Book:
-<i>Mastering Python</i> by Rick van Hattem
+<h4>📖 Current Book: <i>Mastering Python</i> by Rick van Hattem</h4>
 
 <!--
 **lordruzzki/lordruzzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +20,6 @@
 - Python: For a class and a future possibilities
 - MongoDB: A DB alternative to SQL
 
-## 🔨 My Current Projects
+### 📏 My Current Projects
+- Webfolio to showcase what I've learned and what I can do in static web applications
+- Web-based learning platform centralizing resources for student developers to learn about coding
