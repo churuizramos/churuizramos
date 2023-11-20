@@ -4,7 +4,7 @@
     <p align="center">
         <img src="Images/154-1540703_uofl-jb-speed-school-of-engineering-uofl-school.jpg"/>
     </p>
-    <h1 align="center" style>Computer Science & Engineering Student</h1>
+    <h1 align="center" style>Computer Science</h1>
 </div>
 
 ### Pleasure to meet you! I'm a student developer working on web applications and web development.👋
@@ -22,4 +22,4 @@
 
 ### 📏 My Current Projects
 - Webfolio to showcase what I've learned and what I can do in static web applications
-- Web-based learning platform centralizing resources for student developers to learn about coding
+<!-- - Web-based learning platform centralizing resources for student developers to learn about coding -->
