@@ -4,7 +4,7 @@
     <p align="center">
         <img src="Images/154-1540703_uofl-jb-speed-school-of-engineering-uofl-school.jpg"/>
     </p>
-    <h1 align="center" style>Computer Sceince & Engineering</h1>
+    <h1 align="center" style>Computer Science & Engineering</h1>
 </div>
 
 ### Pleasure to meet you! I'm a student programmer working on web-based applications and web programming.👋
