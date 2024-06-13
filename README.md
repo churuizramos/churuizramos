@@ -1,4 +1,4 @@
-<h1 align="center">Jesus Ruiz Ramos</h1>
+<h1 align="center">Jesus "Chuco" Ruiz Ramos</h1>
 
 <div style="">
     <p align="center">
@@ -9,17 +9,23 @@
 
 ### Pleasure to meet you! I'm a student programmer working on web-based applications and web programming.👋
 
-<h4>📖 Current Book: <i>Build Reactive Websites with RxJS</i> by Randalll Koutnik</h4>
+I've always loved computers and the things they could do. Mainly game design and game development interest me more than anything. I'll always be ranting about new technologies I'm obsessed about and you'll find me wandering with my camera trying to see the world in an interesting manner.
+
+<h4>📖 Current Obsessions: <i>Godot, Vue, and Flutter</i></h4>
 
 <!--
 **lordruzzki/lordruzzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ### 🌱 What I'm Learning
-- JavaScript: React and TailwindCSS for my personal site. 
+- JavaScript/Typescript: Vue and TailwindCSS for my personal site. 
 - C & C++: In-class projects.
+- Java: Refreshing for a class using the JavaFX library.
 - MongoDB: A DB alternative to SQL.
 
 ### 📏 My Current Projects
-- Webfolio to showcase what I've learned and what I can do within the static webpage
+- Webfolio to show off my projects and do some cool stuff on the web as well as sharing my photography.
+- Mobile application code-named Project Comida being made with some friends.
+- A 2D top-down RTS game with a heavily simulated economy of service based around an in-depth management system as a PMC director. Project MACO.
+- MS Gundam-inspired mecha game about a rebelling militia on Mars liberating their home from the grip of the oppressive Earth Union.
 <!-- - Web-based learning platform centralizing resources for student developers to learn about coding -->
