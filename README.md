@@ -11,6 +11,7 @@
 
 I've always loved computers and the things they could do. Mainly game design and game development interest me more than anything. I'll always be ranting about new technologies I'm obsessed about and you'll find me wandering with my camera trying to see the world in an interesting manner.
 
+<h4>🎩 Specialties: <i>Java, C#, C, C++, JS, HTML/CSS</i></h4>
 <h4>📖 Current Obsessions: <i>Godot, Vue, and Flutter</i></h4>
 
 <!--
@@ -18,14 +19,11 @@ I've always loved computers and the things they could do. Mainly game design and
 -->
 
 ### 🌱 What I'm Learning
-- JavaScript/Typescript: Vue and TailwindCSS for my personal site. 
+- JavaScript: Vue and TailwindCSS for my personal portfolio site found [here](https://churuizramos.github.io/myPortfolio-vue). 
 - C & C++: In-class projects.
-- Java: Refreshing for a class using the JavaFX library.
-- MongoDB: A DB alternative to SQL.
+- Java: Refreshing for a class using the JavaFX library for GUI applications.
 
 ### 📏 My Current Projects
-- Webfolio to show off my projects and do some cool stuff on the web as well as sharing my photography.
-- Mobile application code-named Project Comida being made with some friends.
-- A 2D top-down RTS game with a heavily simulated economy of service based around an in-depth management system as a PMC director. Project MACO.
-- MS Gundam-inspired mecha game about a rebelling militia on Mars liberating their home from the grip of the oppressive Earth Union.
+- Webfolio to show off my projects and do some cool stuff on the web. This project will expand eventually to cover a photography site and a mobile networking site that includes buttons to quick access all my socials.
+- A 2D couch co-op shooter where you kill zombies with your friends in a fast-paced combat and puzzle solving loop.
 <!-- - Web-based learning platform centralizing resources for student developers to learn about coding -->
