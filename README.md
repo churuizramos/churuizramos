@@ -1,4 +1,4 @@
-<h1 align="center">Jesus "Chuco" Ruiz Ramos</h1>
+<h1 align="center">Jesus (Chuco) Ruiz Ramos</h1>
 
 <div style="">
     <p align="center">
@@ -11,16 +11,16 @@
 
 I've always loved computers and the things they could do. Mainly game design and game development interest me more than anything. I'll always be ranting about new technologies I'm obsessed about and you'll find me wandering with my camera trying to see the world in an interesting manner.
 
-<h4>🎩 Specialties: <i>Java, C#, C, C++, JS, HTML/CSS</i></h4>
-<h4>📖 Current Obsessions: <i>Godot, Vue, and Flutter</i></h4>
+<h4>🎩 Specialties: <i>Java, C#, C, C++, HTML/CSS</i></h4>
+<h4>📖 Current Obsessions: <i>Vue, network systems, and embedded programming</i></h4>
 
 <!--
 **lordruzzki/lordruzzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ### 🌱 What I'm Learning
-- JavaScript: Vue and TailwindCSS for my personal portfolio site found [here](https://churuizramos.github.io/myPortfolio-vue). 
-- C & C++: In-class projects.
+- JavaScript: Vue and TailwindCSS for my personal portfolio static site found [here](https://churuizramos.github.io/myPortfolio-vue). 
+- C & C++: In-class, and personal projects.
 - Java: Refreshing for a class using the JavaFX library for GUI applications.
 
 ### 📏 My Current Projects
