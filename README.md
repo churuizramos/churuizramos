@@ -1,4 +1,4 @@
-<h1 align="center">Jesus (Chuco) Ruiz Ramos</h1>
+<h1 align="center">Jesus Ruiz Ramos</h1>
 
 <div style="">
     <p align="center">
